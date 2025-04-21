@@ -37,7 +37,7 @@ export const attributes = [
   {
     name: "Damage per attack",
     abbreviation: "dpa",
-    description: "Defines the damage each attack should do per round.",
+    description: "Rough estimate of what each attack should be doing in damage, following this blindly will probably ensure that monster damage is increased!",
     getValue: (m) => m.dpa ?? 0,
     setValue: (m, val) => ({ ...m, dpa: val })
   },

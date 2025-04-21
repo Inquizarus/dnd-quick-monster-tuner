@@ -6,7 +6,7 @@
   export let baseMonster;
   export let onApply = () => {};
 
-  const range = 5;
+  const range = 3;
 
   // Returnerar CR-värden inom range från ett center-värde
   function getCRRange(center, range = 2) {

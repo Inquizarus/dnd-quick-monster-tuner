@@ -1,5 +1,6 @@
 export const CR_SCALE = [
-    { label: '1/8', value: 0.125 },
+  { label: '0', value: 0 },
+  { label: '1/8', value: 0.125 },
     { label: '1/4', value: 0.25 },
     { label: '1/2', value: 0.5 },
     { label: '1', value: 1 },
