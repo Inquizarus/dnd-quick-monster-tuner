@@ -152,7 +152,7 @@
   // Used to handle library file upload
   let libraryFileInput;
 
-  function triggerimportLibraryFromJSON() {
+  function triggerImportLibraryFromJSON() {
     libraryFileInput.click();
   }
 
@@ -258,7 +258,7 @@
     <ActionButton
       label="Import library"
       icon={FolderUp}
-      onClick={triggerimportLibraryFromJSON}
+      onClick={triggerImportLibraryFromJSON}
     />
   </div>
 
