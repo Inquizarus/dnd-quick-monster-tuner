@@ -17,7 +17,7 @@
         <ul class="list-disc list-inside text-sm mb-4">
           <li><strong>CR</strong> — the challenge rating (e.g. 1, 2, 5)</li>
           <li><strong>DPR</strong> — used in <code>dpaFormula</code>, damage per round</li>
-          <li><strong>DPR</strong> — used in <code>dpaFormula</code>, number of attacks</li>
+          <li><strong>NOA</strong> — used in <code>dpaFormula</code>, number of attacks</li>
         </ul>
         <h4 class="font-semibold mb-1">Examples:</h4>
         <ul class="text-sm mb-4">
