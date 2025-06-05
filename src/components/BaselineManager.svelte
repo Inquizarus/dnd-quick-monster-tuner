@@ -82,7 +82,7 @@
         </button>
         <button
         class="text-sm text-nord-10 hover:text-nord-9 underline transition"
-        on:click={exportBaselineAsJSON(b)}
+        on:click={() => exportBaselineAsJSON(b)}
       >
         Export
       </button>
